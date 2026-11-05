@@ -1,0 +1,5 @@
+{
+  "jwtSecret": "lanekortet",
+  "tokenTtl": "30m",
+  "issuer": "lanekortet"
+}
